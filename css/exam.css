@@ -1,0 +1,16 @@
+.poor{
+    background-color: lightgoldenrodyellow;
+    color:red;
+    font-size:16px;
+    border:1px solid red;
+    border-radius: 7px;
+}
+.good{
+    background-color: darkslategrey;
+    color:#fff;
+    font-size:20px;
+    border:3px solid grey;
+    border-radius: 7px;
+    text-align:center;
+    font-weight: bold;
+}
